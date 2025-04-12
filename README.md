@@ -4,17 +4,6 @@ Android приложение для отслеживания положения 
 
 
 
-https://github.com/user-attachments/assets/4ad3f736-1a6a-4cd2-8c1d-a284ea40a664
-
-
-
-https://github.com/user-attachments/assets/01650191-b077-44b1-bd91-3c5deb1d3f0c
-
-
-
-https://github.com/user-attachments/assets/3daec43f-0425-404c-9ba3-7c578c20d2eb
-
-
 
 ## Описание
 
