@@ -1,4 +1,4 @@
-![video_2025-03-18_14-28-00](https://github.com/user-attachments/assets/d2cd929c-b99a-4045-82e2-1fb39cb9bee9)![image](https://github.com/user-attachments/assets/fe94fbac-fb51-4319-8b40-f5c51157ec2a)# SolarTrack
+
 
 Android приложение для отслеживания положения солнца и оптимизации работы солнечных панелей.
 
